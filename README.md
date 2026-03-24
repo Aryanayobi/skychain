@@ -1,6 +1,6 @@
 # ✈️ Multi-Hop Flight Enrichment Pipeline
 
-A data engineering pipeline that fetches live flight data over North America and progressively enriches each record across three API hops — adding weather conditions, airline identity, and aircraft details — before storing the fully enriched records in PostgreSQL and visualizing them on a live Dash dashboard.
+A data engineering pipeline that fetches live flight data over the world and progressively enriches each record across three API hops — adding weather conditions, airline identity, and aircraft details — before storing the fully enriched records in PostgreSQL and visualizing them on a live Dash dashboard.
 
 ---
 
